@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "test": "jest --watchAll",
     "lint": "next lint",
     "stripe": "stripe-cli/stripe.exe listen --forward-to localhost:3000/api/webhooks"
   },
