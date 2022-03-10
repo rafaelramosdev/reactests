@@ -10,7 +10,7 @@ jest.mock('next/router', () => {
       }
     }
   }
-})
+});
 
 describe('ActiveLink component', () => {
   it('renders correctly', () => {
