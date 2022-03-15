@@ -1,9 +1,10 @@
 import { render, screen } from '@testing-library/react'
 
+import { mocked } from 'jest-mock'
+
 import { getPrismicClient } from '../../services/prismic'
 
 import Posts, { getStaticProps } from '../../pages/posts'
-import { mocked } from 'jest-mock'
 
 const posts = [
   {
