@@ -33,9 +33,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em NextJS para aplicar conceitos de testes no ambiente front-end dentro do React.
+O projeto tem como objetivo o estudo e reutilização de uma aplicação em NextJS (ig.news) para aplicar conceitos de testes no ambiente front-end dentro do React.
 
-ReacTests foi desenvolvido utilizando o framework NextJS aplicando conceitos de testes automatizados garantindo que nossos componentes e páginas continuem funcionando independente de novas manutenções, tudo isso usando Jest e Testing Library. 
+ReacTests é uma reutilização de uma aplicação que utiliza o framework NextJS (ig.news) onde aplicamos conceitos de testes automatizados garantindo que nossos componentes e páginas continuem funcionando independente de novas manutenções, tudo isso usando Jest e Testing Library. 
 
 Este é um projeto desenvolvido como prática das aulas do Chapter V da trilha ReactJS do **[Programa Ignite](https://www.rocketseat.com.br/ignite)** da Rocketseat.
 
